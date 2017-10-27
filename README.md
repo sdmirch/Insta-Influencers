@@ -20,4 +20,4 @@ print("{:-<65} {}".format(text, str(vs)))
 ```
 
 
-{% include ObjectForceGraph.html %}
+{% include ForceGraphEx.html %}
