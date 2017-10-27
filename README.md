@@ -1,5 +1,5 @@
 # Targeting Power-Middle Influencers
-## with graph analysis
+## with graph analysis and sentiment analysis
 
 You can use the [editor on GitHub](https://github.com/sdmirch/Insta-Influencers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
