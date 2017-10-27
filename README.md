@@ -18,3 +18,6 @@ vs = analyzer.polarity_scores(text)
 print("{:-<65} {}".format(text, str(vs)))
 
 ```
+
+
+{% include ForceGraphEx.html %}
