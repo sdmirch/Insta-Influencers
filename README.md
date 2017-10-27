@@ -3,26 +3,16 @@
 
 Check out the source code for this project [here](https://github.com/sdmirch/instagram-influencer-graph).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Top Influencers
+- Influence Score
+- Interaction Score
+- Authenticity Score
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+```
+text = """I finally SENT my project today wooohoooo! 🎊The technical crux of the 2nd pitch of "The Kill Artist" was an airy 5.13a invert move out the roof of an enormous chimney. But the mental crux was the real hurdle for me."""
+analyzer = SentimentIntensityAnalyzer()
+vs = analyzer.polarity_scores(text)
+print("{:-<65} {}".format(text, str(vs)))
 
 [Link](url) and ![Image](src)
 ```
