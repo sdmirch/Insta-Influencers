@@ -1,9 +1,11 @@
 # Targeting Power-Middle Influencers
+
+
 ## with graph analysis and sentiment analysis
 
 Check out the source code for this project [here](https://github.com/sdmirch/instagram-influencer-graph).
 
-# Top Influencers
+## Top Influencers
 - Influence Score
 - Interaction Score
 ![Likes and Follows within network](images/LikesExampleNetwork.png)
