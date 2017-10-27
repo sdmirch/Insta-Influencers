@@ -1,7 +1,7 @@
 # Targeting Power-Middle Influencers
 ## with graph analysis and sentiment analysis
 
-You can use the [editor on GitHub](https://github.com/sdmirch/Insta-Influencers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Check out the source code for this project [here](https://github.com/sdmirch/instagram-influencer-graph).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
