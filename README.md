@@ -11,11 +11,6 @@ I identified the top power-middle influencers on Instagram using graph and senti
 
 {% include ForceGraphEx.html %}
 
-<img style="float: left;" src="images/DegreeEigenvector_presentation.png">
-<img style="float: right;" src="images/DegreeEigenvector_presentation.png">
-
-
-
 ## Top Influencers
 -  Critical Mass Filter: Must have more than 5000 followers.
 
