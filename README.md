@@ -6,10 +6,11 @@
 Check out the source code for this project [here](https://github.com/sdmirch/instagram-influencer-graph).
 
 ### tl;dr
-I identified the top power-middle influencers on Instagram using graph and sentiment analysis. Power-middle influencers have a devoted following and tend to have a higher interaction rate with their followers, and therefore can make more authentic and affordable endorsements of niche products.
 
 
-{% include ForceGraphEx.html %}
+tl;dr | Influencer-Network
+------------ | -------------
+I identified the top power-middle influencers on Instagram using graph and sentiment analysis. Power-middle influencers have a devoted following and tend to have a higher interaction rate with their followers, and therefore can make more authentic and affordable endorsements of niche products. | {% include ForceGraphEx.html %}
 
 
 ## Top Influencers
