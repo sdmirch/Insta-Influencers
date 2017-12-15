@@ -5,6 +5,8 @@
 
 Check out the source code for this project [here](https://github.com/sdmirch/instagram-influencer-graph).
 
+Check out my online post for this project [here](https://sdmirch.github.io/portfolio/influencers/).
+
 **This project page is currently under construction.**
 
 ### tl;dr
